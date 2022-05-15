@@ -1,3 +1,2 @@
 # ColorTiles
-Tutoring project
-repetit.ru paid project
+repetit.ru paid tutoring project
